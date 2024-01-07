@@ -2,9 +2,7 @@
 
 This project is a simple profile card UI design showcasing a user's information, including their image, name, job title, and social media links. Users can also connect and message through LinkedIn.
 
-## Preview
 
-[Include a screenshot or gif of your project]
 
 ## Technologies Used
 
