@@ -13,9 +13,3 @@ This project is a simple profile card UI design showcasing a user's information,
 
 To view the profile card, simply open the `index.html` file in a web browser.
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/profile-card-ui.git
-
-# Navigate to the project directory
-cd profile-card-ui
